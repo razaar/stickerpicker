@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "emotes.json",
+    "Meme_stickers.json"
+  ],
+  "homeserver_url": "https://matrix.bashaway.de"
+}
