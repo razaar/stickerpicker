@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "verygay.json"
   ],
   "homeserver_url": "https://matrix.bashaway.de"
 }
